@@ -97,14 +97,9 @@ font-size: 2.5em;
     background: linear-gradient(88deg, rgb(56, 35, 164), #cd7474);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    /* Media query para dispositivos móviles */
+   
 
-  
-
-
-
-
-}
+  }
 
 .acerca{
     height: 80vh;
