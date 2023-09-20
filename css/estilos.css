@@ -177,7 +177,7 @@ h2{
 
 
 .portafolios{
-    display: flex;
+    display: center;
     align-items: center;
     justify-content: center;
     height: 80vh;
@@ -209,6 +209,7 @@ h2{
 .portafolio{
     width: 110%;
     height: 70vh;
+    padding-top: 40px;
     display: flex;
     flex-direction: column;
     text-align: center;
